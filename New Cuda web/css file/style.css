@@ -1,0 +1,314 @@
+*{
+ margin: 0;
+ padding: 0;
+ outline: 0;
+ box-sizing: border-box;
+ text-decoration: none;
+}
+
+header{
+ 
+width: 100%;
+height: 120px;
+background-color: #303030;
+margin-top: 10px;
+}
+.container{
+width: 90%;
+margin: auto;
+
+}
+.logo-fast{
+width: 100%;
+float: left;
+
+}
+.img-fast{
+width: 25%;
+float: left;
+padding-top: 20px;
+}
+.navi-bar{
+ width: 50%;
+ float: left;
+word-spacing: 60px;
+margin-top: 50px;
+
+
+}
+.navi-bar ul a{
+color: #fff;
+font-size: 17px;
+text-transform: uppercase;
+font-family: unset;
+}
+.navi-bar ul a li{
+display: inline-block;
+
+
+}
+.icon-fast{
+
+text-align: end;
+padding: 40px 0px 0px;
+
+}
+#search{
+width: 200px;
+
+}
+/* <!-- ====header end=== --> */
+.first-s{
+
+width: 100%;
+height: 750px;
+background-image: url(/Musicolodffdfgy.png);
+
+}
+.container{
+
+ width: 90%;
+ margin: auto;
+}
+.tittele{
+
+width: 100%;
+padding-top: 420px;
+
+}
+.tittele h1{
+font-size: 100px;
+color: #ffffff;
+text-transform: uppercase;
+
+font-weight: bold;
+
+}
+.tittele p{
+color: #a2a2a2;
+font-size: 25px;
+font-family: inherit;
+padding-top: 10px;
+text-transform: capitalize;
+}
+.btn-one{
+margin-top: 25px;
+
+}
+
+.btn-one a button{
+ width: 200px;
+ height: 50px;
+ font-size: 20px;
+ text-transform: uppercase;
+background-color: #e8631c;
+border-radius: 5px;
+color: #fff;
+}
+/* <!-- =====section 1 end==== --> */
+
+.second-s{
+
+width: 100%;
+height: 800px;
+background-color: #e8631c;
+float: left;
+
+}
+.container{
+ width: 90%;
+ margin: auto;
+}
+
+
+.text-2nd{
+margin-top: 80px;
+text-align: center;
+}
+.text-2nd h1{
+text-transform: uppercase;
+font-size: 90px;
+font-family: sans-serif;
+font-weight: 700;
+color: #fff;
+}
+.text-2nd p{
+padding-top: 20px;
+font-family: sans-serif;
+text-transform: capitalize;
+color: #f9d5c2;
+}
+.image-one{
+width: 100%;
+float: left;
+text-align: center;
+margin-top: 60px;
+}
+.img-1{
+width: 33%;
+float: left;
+}
+.img-2{
+ width: 33%;
+ float: left;
+}
+.img-3{
+ width: 33%;
+ float: left;
+}
+/* <!-- =====section-2 end=== --> */
+
+.third-s{
+
+ width: 100%;
+ height: 850px;
+ background-color: #303030;
+ float: left;
+ 
+ }
+ .container{
+  width: 90%;
+  margin: auto;
+ }
+ 
+ 
+ .text-3nd{
+ margin-top: 70px;
+ text-align: center;
+ }
+ .text-3nd h1{
+ text-transform: uppercase;
+font-size: 90px;
+ font-family: sans-serif;
+ font-weight: 700;
+ color: #fff;
+ }
+ .text-3nd p{
+ padding-top: 20px;
+ font-family: sans-serif;
+ text-transform: capitalize;
+ color: #f9d5c2;
+ }
+ .image-two{
+ width: 100%;
+ float: left;
+ text-align: center;
+ margin-top: 60px;
+ }
+ .img-4{
+ width: 33%;
+ float: left;
+ }
+ .img-5{
+  width: 33%;
+  float: left;
+ }
+ .img-6{
+  width: 33%;
+  float: left;
+ }
+
+/* =====section 4 ++ 5 part==== */
+
+.haf-haf{
+ width: 100%;
+ float: left;
+ text-align: center;
+}
+
+.img-pp{
+width: 50%;
+float: left;
+
+}
+
+.img-pp img{
+ height: 850px;
+ width: 100%;
+}
+.t-part{
+width: 50%;
+float: left;
+margin-top: 300px;
+}
+.t-part h2{
+color: #fff;
+text-transform: uppercase;
+font-weight: 700;
+font-family: sans-serif;
+font-size: 70px;
+
+}
+.t-part p{
+
+ padding-top: 40px;
+ font-size: 20px;
+ font-family: sans-serif;
+ color: #fff;
+}
+.t-part a button{
+
+width: 300px;
+height: 70px;
+margin-top: 60px;
+background-color: #303030;
+color: #fff;
+font-size: 40px;
+text-transform: uppercase;
+border-radius: 5px;
+font-family: serif;
+}
+/* <!-- ===section 4 ++ 5 end=== --> */
+
+.third-s{
+
+ width: 100%;
+ height: 850px;
+ background-color: #303030;
+ float: left;
+ 
+ }
+ .container{
+  width: 90%;
+  margin: auto;
+ }
+ 
+ 
+ .text-4nd{
+ margin-top: 160px;
+ text-align: center;
+ }
+ .text-4nd h1{
+ text-transform: uppercase;
+font-size: 70px;
+ font-family: sans-serif;
+ font-weight: 700;
+ color: #fff;
+ }
+ .text-4nd p{
+ padding-top: 45px;
+ font-family: sans-serif;
+ text-transform: capitalize;
+ color: #fff;
+ font-size: 20px;
+ }
+ .image-three{
+ width: 100%;
+ float: left;
+ text-align: center;
+ margin-top: 250px;
+ }
+ .img-7{
+ width: 33%;
+ float: left;
+ }
+ .img-8{
+  width: 33%;
+  float: left;
+ }
+ .img-9{
+  width: 33%;
+  float: left;
+ }
+ /* =====section 6 end=== */
+
